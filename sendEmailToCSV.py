@@ -41,8 +41,6 @@ def parse_options():
     parser = OptionParser(usage="""\
          Send email to each contact(per line) in csv
          Usage: %prog [options] 
-         e.g:
-
          """)
     parser.add_option('-u', '--user', action='store', type='string', 
                       help='user for email authentication')                     

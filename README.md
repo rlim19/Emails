@@ -11,6 +11,4 @@ e.g:
  >> 
  > SpamTeam
  >> """
- Enter password: 
-
 </code>
